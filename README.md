@@ -5,6 +5,18 @@ FMS(Fault Management System: 运维故障管理系统)
 [![Python Version](https://img.shields.io/badge/Python--3.6-paasing-green.svg)](https://img.shields.io/badge/Python--3.6-paasing-green.svg)
 [![Django Version](https://img.shields.io/badge/Django--1.11.0-paasing-green.svg)](https://img.shields.io/badge/Django--1.11.0-paasing-green.svg)
 
+[![Release Notes](https://img.shields.io/github/release/lwj2048/fms?style=flat-square)](https://github.com/lwj2048/fms/releases)
+[![CI](https://github.com/lwj2048/fms/actions/workflows/main.yml/badge.svg)](https://github.com/lwj2048/fms/actions/workflows/check_diffs.yml)
+[![PyPI - License](https://img.shields.io/pypi/l/langchain-core?style=flat-square)](https://opensource.org/licenses/MIT)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/langchain-core?style=flat-square)](https://pypistats.org/packages/langchain-core)
+[![GitHub star chart](https://img.shields.io/github/stars/lwj2048/fms?style=flat-square)](https://star-history.com/#lwj2048/fms)
+[![Dependency Status](https://img.shields.io/librariesio/github/lwj2048/fms?style=flat-square)](https://libraries.io/github/lwj2048/fms)
+[![Open Issues](https://img.shields.io/github/issues-raw/lwj2048/fms?style=flat-square)](https://github.com/lwj2048/fms/issues)
+[![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode&style=flat-square)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/lwj2048/fms)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/lwj2048/fms)
+[![](https://dcbadge.vercel.app/api/server/6adMQxSpJS?compact=true&style=flat)](https://discord.gg/6adMQxSpJS)
+
+
 > FMS现有功能:
 
 - 故障管理
